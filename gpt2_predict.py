@@ -22,7 +22,7 @@ options = {
     },
     "gpt2_one_ep": {
         "tokenizer": GPT2Tokenizer.from_pretrained("gpt2"),
-        "dir_name": "fine   _tuned_one_ep"
+        "dir_name": "fine_tuned_one_ep"
     }
 }
 
