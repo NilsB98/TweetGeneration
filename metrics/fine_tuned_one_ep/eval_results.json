@@ -1,0 +1,16 @@
+[
+    {
+        "epoch": 1.0,
+        "learning_rate": 0.0,
+        "loss": 4.551,
+        "step": 525
+    },
+    {
+        "epoch": 1.0,
+        "eval_loss": 4.207657337188721,
+        "eval_runtime": 15.3296,
+        "eval_samples_per_second": 547.505,
+        "eval_steps_per_second": 68.495,
+        "step": 525
+    }
+]
